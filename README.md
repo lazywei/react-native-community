@@ -20,6 +20,12 @@ A list of community-built React Native contributions
 
 - https://github.com/ecomfe/react-native-cn
 
+## Compatible Flux Implementation
+
+- https://github.com/lazywei/fluxxor/tree/react-native
+- https://github.com/brentvatne/flux-util
+- https://github.com/facebook/flux
+
 ## Pull Requests Welcome!
 
 I'd like to have an exhaustive list here
